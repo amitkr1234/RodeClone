@@ -6,7 +6,7 @@
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--1--lightgrey)
 
-![name](https://img.shields.io/badge/name%20-praveen-green)
+![name](https://img.shields.io/badge/name%20-Amit-red)
 
 ## Project  [Live Link](https://rode-clone-tailwind-project.netlify.app/)
 
